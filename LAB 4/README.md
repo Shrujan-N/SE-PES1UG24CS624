@@ -1,6 +1,7 @@
 ### SRN: PES1UG24CS624
 ### NAME: SHRUJAN N
 ### SEC: K
+### original fork https://github.com/Shrujan-N/18_blackjack
 
 # Scenario 18 — Blackjack vs Dealer
 

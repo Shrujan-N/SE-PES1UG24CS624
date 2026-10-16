@@ -1,7 +1,8 @@
+##### pls go to fork file to check the commits https://github.com/Shrujan-N/18_blackjack
 ### SRN: PES1UG24CS624
 ### NAME: SHRUJAN N
 ### SEC: K
-##### fork https://github.com/Shrujan-N/18_blackjack
+
 
 # Scenario 18 — Blackjack vs Dealer
 

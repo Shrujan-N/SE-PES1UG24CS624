@@ -1,3 +1,8 @@
+#### NAME: SHRUJAN N
+#### SEC: K
+#### SRN: PES1UG24CS624
+#### pls go to the forked repo to check the commits https://github.com/Shrujan-N/L5_18_supplier_orders/tree/main
+
 # Lab 5: Static Code Analysis — Supplier Purchase Order Tracker
 
 **Your file:** `supplier_orders.py`
